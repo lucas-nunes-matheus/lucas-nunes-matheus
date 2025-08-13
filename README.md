@@ -7,6 +7,5 @@ linkedIn: <a href="linkedin.com/in/lucas-nunes-matheus">linkedin.com/in/lucas-nu
 github: <a href="github.com/lucas-nunes-matheus">github.com/lucas-nunes-matheus</a><br/>
 
 <div align="center">
-  <h3>Meu título centralizado</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-nunes-matheus&amp;hide=html&amp;layout=compact&amp;theme=dark" alt="Stats">
 </div>
