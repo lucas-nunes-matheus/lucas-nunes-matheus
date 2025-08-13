@@ -6,6 +6,4 @@ institutional e-mail: lucas.matheus@sou.inteli.edu.br
 linkedIn: <a href="linkedin.com/in/lucas-nunes-matheus">linkedin.com/in/lucas-nunes-matheus</a>
 github: <a href="github.com/lucas-nunes-matheus">github.com/lucas-nunes-matheus</a>
 
-<div align="center" width="100%">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-nunes-matheus&amp;hide=html&amp;layout=compact&amp;theme=dark)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-nunes-matheus&amp;hide=html&amp;layout=compact&amp;theme=dark)
