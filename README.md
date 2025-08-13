@@ -7,5 +7,5 @@ linkedIn: <a href="linkedin.com/in/lucas-nunes-matheus">linkedin.com/in/lucas-nu
 github: <a href="github.com/lucas-nunes-matheus">github.com/lucas-nunes-matheus</a><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-nunes-matheus&hide=javascript,php,c++&amp;hide=html&amp;layout=compact&amp;theme=dark" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-nunes-matheus&hide=javascript,php&amp;hide=html&amp;layout=compact&amp;theme=dark" alt="Stats">
 </div>
